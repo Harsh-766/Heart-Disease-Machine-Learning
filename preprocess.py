@@ -1,4 +1,4 @@
-"""Data preprocessing module for Heart Disease classification.
+ """Data preprocessing module for Heart Disease classification.
 
 Handles data loading, validation, missing value imputation, stratified
 train/test splitting, and feature scaling using StandardScaler to avoid
